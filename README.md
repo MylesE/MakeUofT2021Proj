@@ -8,7 +8,7 @@ Make UofT Hackathon 2021 - Group: Alexander Tran, David Henein, Myles Esteban, S
 
 # Opening files in unity
 The actual unity project file is "Platformer_Proj_MakeUofT2021", so you will need to open unity and add that folder as the project
-- Do note that there is a weird thing where the scene doesn't show up if you pull/clone for the first time, to fix go to File > Open Scene, then open the correct scene
+- Do note that there is a weird thing where the scene doesn't show up if you pull/clone, to fix go to File > Open Scene, then open the correct scene
 
 # Making changes 
 - should probably make a branch and pull request, but if working in main branch just:
